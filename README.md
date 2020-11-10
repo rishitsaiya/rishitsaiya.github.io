@@ -1,5 +1,5 @@
 # HomePage
-This is my personal Home Page
+This is my personal Home Page and Resume.
 
 [![HitCount](http://hits.dwyl.com/rishitsaiya/homepage.svg)](http://hits.dwyl.com/rishitsaiya/homepage)
 
