@@ -1,8 +1,5 @@
-# HomePage
+## HomePage
 This is my personal Home Page and Resume.
 
-[![HitCount](http://hits.dwyl.com/rishitsaiya/homepage.svg)](http://hits.dwyl.com/rishitsaiya/homepage)
-
-
 Theme credits:
-[SV Praveen](https://github.com/svp19/svp19.github.io)
+[Rahil Kabani](https://github.com/alias-rahil/alias-rahil.github.io)
