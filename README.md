@@ -1,6 +1,6 @@
 ## HomePage
 
-My latest updats can be found here on my webpage. This website is hosted through this repo.
+My latest updates can be found here on my webpage. This website is hosted through this repo.
 
 This is my personal Home Page and Resume.
 
